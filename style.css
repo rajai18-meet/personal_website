@@ -1,0 +1,22 @@
+.jumbotron
+{
+	background: url(maldives.png);
+	height: 400px;
+	width: 1150px;
+	background-position:;
+	background-size:cover;
+	background-repeat: no-repeat;
+	top: 0;
+	left: 0;
+	font-size: 50px;
+	color: blue !important;
+	margin-bottom: 0px !important;
+
+}
+.alert alert-success{
+	padding-top: 10px;
+	margin-top: 10px;
+}
+td{
+	width:900px;
+}
