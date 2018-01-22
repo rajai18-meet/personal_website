@@ -9,7 +9,7 @@ def hello_world():
 @app.route('/food')
 
 def my_favorite_food():
-	return 'My favorite food from all my travel experience would be the original italian pizza I ahd in Sardinia'
+	return 'My favorite food from all my travel experience would be the original italian pizza I had in Sardinia'
 
 @app.route('/user/<username>')
 def show_user_name(username):
